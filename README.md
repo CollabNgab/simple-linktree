@@ -1,2 +1,13 @@
-# simple-linktree
-Simple Linktree adalah project collab pertama dengan miaa
+<div align="center" id="top"> 
+  <img src="./screenshot/ss.png" alt="Simple Linktree" />
+
+  &#xa0;
+
+  <!-- <a href="https://simplelinktree.netlify.app">Demo</a> -->
+</div>
+
+<h1 align="center">Simple Linktree</h1>
+
+## Tentang
+
+Simple Linktree adalah project collab pertama kali antara [Muhammad Surya](https://instagram.com/suryaaamsj) dengan [Miaa](https://instagram.com/miyaa.gish)
